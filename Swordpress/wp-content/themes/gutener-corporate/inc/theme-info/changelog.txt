@@ -1,0 +1,8 @@
+= 1.0.2 =
+* Theme URI added.
+
+= 1.0.1 =
+* Slider navigation issue fixed.
+
+= 1.0.0 =
+* Initial release.
